@@ -1,0 +1,13 @@
+Microsoft Windows [Version 10.0.26100.6584]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Ahraz Ahmed\OneDrive\Desktop\h33_devops\H33-04-third>git init
+Reinitialized existing Git repository in C:/Users/Ahraz Ahmed/OneDrive/Desktop/h33_devops/H33-04-third/.git/
+
+C:\Users\Ahraz Ahmed\OneDrive\Desktop\h33_devops\H33-04-third>git add index.html
+
+C:\Users\Ahraz Ahmed\OneDrive\Desktop\h33_devops\H33-04-third>git commit -m "Initial commit — added index.html with h1"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
